@@ -47,7 +47,7 @@ export default function Component() {
         <h1 className="text-6xl font-bold mb-6 tracking-wider">
           <span className="text-gold-500">AI</span> Development Services
         </h1>
-        <p className="text-xl mb-8">Intelligent solutions for a dangerous world</p>
+        <p className="text-xl mb-8">Ora Caras de nepe, gay el que lo lea</p>
         <motion.button
           className="px-8 py-3 bg-gold-500 text-black rounded-full font-semibold text-lg hover:bg-gold-400 transition-colors duration-300"
           whileHover={{ scale: 1.05 }}
